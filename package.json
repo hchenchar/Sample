@@ -1,0 +1,25 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "users little application",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haylee@chencharconcepts.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "lowdb": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/littletiers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kogsio/littletiers/issues"
+  },
+  "homepage": "https://github.com/kogsio/littletiers#readme"
+}
